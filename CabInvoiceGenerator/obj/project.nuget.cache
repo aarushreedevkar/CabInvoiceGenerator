@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ONkP4wmBfJS/OP/EKFDUM6uU40shNFpB+VWmP7ZDdx9umFI3r+OAs7WYQGwu/1NeDbcwJ5rdLS9/7y6c/vPu0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\test\\Desktop\\Reviews\\CabInvoiceGenerator\\CabInvoiceGenerator\\CabInvoiceGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\test\\.nuget\\packages\\documentformat.openxml\\2.17.1\\documentformat.openxml.2.17.1.nupkg.sha512",
+    "C:\\Users\\test\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
